@@ -11,7 +11,7 @@ Using the appropriate graphs and charts, generate basic statistics and visualiza
 
 ---
 ## Overview of Project Tasks
-**Final Project:** For the project scenario, here is an overview of your tasks.
+For the project scenario, here is an overview of the tasks.
 - **Task 1:** Familiarize yourself with the dataset 
 - **Task 2:** Generate basic statistics and visualizations for upper management. 
 - **Task 3:** Use the appropriate tests to answer the questions provided.
